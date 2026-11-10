@@ -31,4 +31,4 @@ user input, mathematical formulas and error handling in Python.
 
 ## Author
 
-Balogun Muhammad, ND1 Mechatronics Engineering, YabaTech.
+Abdur Rahman Balogun, ND1 Mechatronics Engineering, YabaTech.
